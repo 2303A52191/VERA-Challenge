@@ -28,3 +28,16 @@ npm start
 ```bash
 http://localhost:3000/health
 ```
+
+## Deploy to Render
+
+This project includes `render.yaml` for Render deployment.
+
+- Build command: `npm install`
+- Start command: `node server.js`
+
+Connect the repo to Render and deploy the `main` branch.
+
+## Public demo
+
+A public tunnel is available at `https://silent-points-allow.loca.lt` for temporary testing.
